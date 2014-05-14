@@ -1,5 +1,5 @@
 ## Mechanization of Exploits 
-* https://github.com/turnersr/turnersr.github.io/blob/master/mechanization_of_exploits/DARPA_CGC/exploits.org 
+* https://github.com/REMath/literature_review/blob/master/mechanization_of_exploits.org 
 
 ## Binary Analysis 
 * https://github.com/bdcht/amoco
