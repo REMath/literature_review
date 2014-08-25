@@ -108,7 +108,7 @@
 * https://code.google.com/p/thebeast/
 
 ## Datalog
-* Alias Analysis for Assembly - https://users.ece.cmu.edu/~dbrumley/pubs/asm-alias.pdf
+* Alias Analysis for Assembly - http://users.ece.cmu.edu/~dbrumley/pdf/Brumley,%20Newsome_2006_Alias%20Analysis%20for%20Assembly%20%28Revised%29.pdf
 * Dyna: Extending Datalog For Modern AI - http://cs.jhu.edu/~jason/papers/eisner+filardo.datalog11-long.pdf and http://www.cs.jhu.edu/~nwf/datalog20-paper.pdf 
 * Using Datalog for fast and easy program analysis - http://cgi.di.uoa.gr/~smaragd/doop-datalog2.0.pdf
 * Implementing Dataflow Analyses for Pegasus in Datalog - http://www.cs.cmu.edu/~drl/course/compilers/report.pdf
