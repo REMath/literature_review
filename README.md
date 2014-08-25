@@ -9,7 +9,7 @@
 * http://bap.ece.cmu.edu/
 * http://dynamorio.org/
 * https://bitbucket.org/simona/mltk
-* http://insight.labri.fr/trac
+* http://insight.labri.fr/trac, https://github.com/perror/insight
 * https://github.com/rose-compiler/rose/tree/master/projects/BinQ
 * https://github.com/neuromancer/SEA
 * http://bitblaze.cs.berkeley.edu/
