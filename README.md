@@ -2,7 +2,10 @@
 * https://github.com/REMath/literature_review/blob/master/mechanization_of_exploits.org 
 
 ## Binary Analysis 
+* https://github.com/zardus/pyvex
+* https://github.com/trailofbits/mcsema
 * https://github.com/bdcht/amoco
+* A tool that exports LLVM bitcode into a Datalog workspace - https://github.com/plast-lab/llvm-datalog
 * http://bap.ece.cmu.edu/
 * http://dynamorio.org/
 * https://bitbucket.org/simona/mltk
@@ -31,6 +34,7 @@
 * https://code.google.com/p/miasm/
 
 
+
 ## Analysis of Communication Protocols 
 * Netzob is an open source tool for reverse engineering, traffic generation and fuzzing of communication protocols. It allows to infer the message format and the state machine of a protocol through passive and active processes. The model can afterward be used to simulate realistic and controllable trafic. - http://www.netzob.org/
 * Communication protocols determine how network components interact with each other. Therefore, the ability to derive a specification of a protocol can be useful in various contexts, such as to support deeper black-box testing or effective defense mechanisms. Unfortunately, it is often hard to obtain the specification because systems implement closed (i.e., undocumented) protocols, or because a time consuming translation has to be performed, from the textual description of the protocol to a format readable by the tools. To address these issues, we developed ReverX, a Java application that generates automata for the language and protocol state machine from network traces. Since our solution only resorts to interaction samples of the protocol, it is well-suited to uncover the message formats and protocol states of closed protocols and also to automate most of the process of specifying open protocols. - https://code.google.com/p/reverx/
@@ -48,12 +52,14 @@
 * Jakstab uses an IR described in chapter two of http://www.cs.rhul.ac.uk/home/kinder/papers/phdthesis.pdf
 * Wire – A Formal Intermediate Language for Binary Analysis - https://drive.google.com/file/d/0BymO5h8P3PgAakZqY1RQSldzRmM/edit?usp=sharing
 * Automated Synthesis of Symbolic Instruction Encodings from I/O Samples - http://research.microsoft.com/en-us/um/people/pg/public_psfiles/pldi2012.pdf
+* Towards A Binary Intermediate Language for Real-Time Embedded System by Jianqi Shi, Qin Li, Longfei Zhu, Xin Ye, Yanhong Huang, Huixing Fang and Fu Song - http://downloads.hindawi.com/journals/mpe/aip/925402.pdf 
 
-## Alias Analysis  
+## Alias / Value Analysis  
 * Alias Analysis for Assembly - http://reports-archive.adm.cs.cmu.edu/anon/anon/usr/ftp/2006/CMU-CS-06-180R.pdf
 * Probabilistic Alias Analysis for ARM Executable Code - https://drive.google.com/file/d/0BymO5h8P3PgAc29nUFBleGFtTnc/edit?usp=sharing
 * WYSINWYX: What You See Is Not What You Execute - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.76.637&rep=rep1&type=pdf
 * Static Analysis of x86 Executables by Johannes Kinder - http://www.cs.rhul.ac.uk/home/kinder/papers/phdthesis.pdf
+* BDDStab: BDD-based Value Analysis of Binaries - http://cs.au.dk/~amoeller/tapas2014/tapas2014_2.pdf
 
 ## Binary Rewriting
 * Control Flow Integrity - https://github.com/turnersr/turnersr.github.io/blob/master/technology_review/Technology_Survey.md#control-flow-integrity
@@ -103,22 +109,22 @@
 
 ## Datalog
 * Alias Analysis for Assembly - https://users.ece.cmu.edu/~dbrumley/pubs/asm-alias.pdf
-* Dyna: Extending Datalog For Modern AI - http://cs.jhu.edu/~jason/papers/eisner+filardo.datalog11-long.pd
+* Dyna: Extending Datalog For Modern AI - http://cs.jhu.edu/~jason/papers/eisner+filardo.datalog11-long.pdf and http://www.cs.jhu.edu/~nwf/datalog20-paper.pdf 
 * Using Datalog for fast and easy program analysis - http://cgi.di.uoa.gr/~smaragd/doop-datalog2.0.pdf
 * Implementing Dataflow Analyses for Pegasus in Datalog - http://www.cs.cmu.edu/~drl/course/compilers/report.pdf
 * Using Datalog and binary decision diagrams for program analysis - http://people.csail.mit.edu/mcarbin/papers/aplas05.pdf
 * Datalog for decompilation - https://media.blackhat.com/us-13/US-13-Cesare-Bugalyze.com-Detecting-Bugs-Using-Decompilation-Slides.pdf
 * On Abstraction Reﬁnement for Program Analyses in Datalog - http://www.cs.ox.ac.uk/people/hongseok.yang/paper/pldi14c-submitted.pdf
-* http://arxiv.org/pdf/1203.0160.pdf
-* http://www.cs.jhu.edu/~nwf/datalog20-paper.pdf
+* Scaling Datalog for Machine Learning on Big Data - http://arxiv.org/pdf/1203.0160.pdf
+* Relational Representation of the LLVM Intermediate Language - http://cgi.di.uoa.gr/~smaragd/theses/psallida.pdf
 * http://docs.datomic.com/query.html
-* http://cgi.di.uoa.gr/~smaragd/doop-datalog2.0.pdf
-* http://research.microsoft.com/en-us/um/people/leonardo/muze.pdf
-* http://www.cs.ox.ac.uk/people/hongseok.yang/paper/pldi14c-submitted.pdf
-* http://cgi.di.uoa.gr/~smaragd/doop-datalog2.0.pdf
-* http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.54.8690
-* http://www.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-173.html
-* http://cgi.di.uoa.gr/~smaragd/doop-oopsla09prelim.pdf 
+* Using Datalog for Fast and Easy Program Analysis - http://cgi.di.uoa.gr/~smaragd/doop-datalog2.0.pdf
+* An Efficient Engine for Fixed Points with
+Constraints - http://research.microsoft.com/en-us/um/people/leonardo/muze.pdf
+* On Abstraction Refinement for Program Analyses in Datalog - http://www.cs.ox.ac.uk/people/hongseok.yang/paper/pldi14c-submitted.pdf
+* Efficient Top-Down Computation Of Queries Under The Well-Founded Semantics - http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=9C9550377F2C74A427FBA59818479087?doi=10.1.1.54.8690&rep=rep1&type=pdf
+* Dedalus: Datalog in Time and Space - http://www.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-173.pdf
+* Strictly Declarative Specification of Sophisticated Points-to Analyses - http://cgi.di.uoa.gr/~smaragd/doop-oopsla09prelim.pdf 
 
 ## String Solvers
 * http://webblaze.cs.berkeley.edu/2010/kaluza/
@@ -251,6 +257,9 @@
 * https://www.usenix.org/conference/usenixsecurity13/technical-sessions/presentation/Zhang
 * http://lenx.100871.net/papers/FPGate-bluehat.pdf
 * http://lists.cs.uiuc.edu/pipermail/llvmdev/2014-February/070210.html
+* Enforcing Forward-Edge Control-Flow Integrity in GCC & LLVM by Caroline Tice, Tom Roeder, Peter Collingbourne, Stephen Checkoway, Úlfar Erlingsson, Luis Lozano, and Geoff Pike - https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-tice.pdf
+* Control-Flow Integrity Principles, Implementations, and Applications - http://research.microsoft.com/pubs/69217/ccs05-cfi.pdf
+
 
 ## C Code / C++ Code (Need to split these at some point) 
 * http://why3.lri.fr/
