@@ -291,7 +291,7 @@ Constraints - http://research.microsoft.com/en-us/um/people/leonardo/muze.pdf
 * http://turnersr.github.io/measurements/properties.html
 
 ## Assisted Exploit Engineering
-### Return-oriented Programming, really this should be under Abstract Interpretation :P 
+### Return-oriented Programming
 * http://users.ece.cmu.edu/~ejschwar/papers/usenix11.pdf
 * https://github.com/programa-stic/ropc-llvm
 * https://github.com/pakt/ropc
