@@ -130,6 +130,7 @@ Constraints - http://research.microsoft.com/en-us/um/people/leonardo/muze.pdf
 * http://webblaze.cs.berkeley.edu/2010/kaluza/
 * http://people.csail.mit.edu/akiezun/hampi/
 * http://www.cs.purdue.edu/homes/zheng16/str/
+* A DPLL(T) Theory Solver for a Theory of Strings and Regular Expressions - http://www.divms.uiowa.edu/ftp/tinelli/papers/LiaEtAl-CAV-14.pdf and http://cvc4.cs.nyu.edu/papers/CAV2014-strings/ 
 
 ## Datasets 
 * https://svn.sosy-lab.org/software/sv-benchmarks/tags/svcomp13/
