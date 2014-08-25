@@ -125,6 +125,7 @@ Constraints - http://research.microsoft.com/en-us/um/people/leonardo/muze.pdf
 * Efficient Top-Down Computation Of Queries Under The Well-Founded Semantics - http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=9C9550377F2C74A427FBA59818479087?doi=10.1.1.54.8690&rep=rep1&type=pdf
 * Dedalus: Datalog in Time and Space - http://www.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-173.pdf
 * Strictly Declarative Specification of Sophisticated Points-to Analyses - http://cgi.di.uoa.gr/~smaragd/doop-oopsla09prelim.pdf 
+* Pregelix: Big(ger) Graph Analytics on A Dataflow Engine - http://arxiv.org/pdf/1407.0455.pdf
 
 ## String Solvers
 * http://webblaze.cs.berkeley.edu/2010/kaluza/
