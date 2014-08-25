@@ -1,3 +1,6 @@
+* Original source of list: https://github.com/REMath/literature_review
+
+
 ## Mechanization of Exploits 
 * https://github.com/REMath/literature_review/blob/master/mechanization_of_exploits.org 
 
@@ -383,3 +386,4 @@
 # Acknowledgements
 * https://events.ccc.de/congress/2013/wiki/Session:Binary_Analysis
 * http://www.reddit.com/r/ReverseEngineering/comments/1pvqv5/program_analysis_technology_additions_and/cd6tmor
+* Original source of list: https://github.com/REMath/literature_review
