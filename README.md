@@ -3,9 +3,10 @@
 
 ## Binary Analysis 
 * https://github.com/zardus/pyvex
-* https://github.com/trailofbits/mcsema
+* Mcsema is a rewriting and static analysis framework based on LLVM  https://github.com/trailofbits/mcsema
 * https://github.com/bdcht/amoco
 * A tool that exports LLVM bitcode into a Datalog workspace - https://github.com/plast-lab/llvm-datalog
+* Dagger is a decompilation framework based on LLVM - http://dagger.repzret.org/
 * http://bap.ece.cmu.edu/
 * http://dynamorio.org/
 * https://bitbucket.org/simona/mltk
