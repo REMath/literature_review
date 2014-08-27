@@ -61,6 +61,11 @@
 * Static Analysis of x86 Executables by Johannes Kinder - http://www.cs.rhul.ac.uk/home/kinder/papers/phdthesis.pdf
 * BDDStab: BDD-based Value Analysis of Binaries - http://cs.au.dk/~amoeller/tapas2014/tapas2014_2.pdf
 
+
+## Control Flow Recovery 
+* Alias / Value Analysis  - https://github.com/REMath/literature_review#alias--value-analysis
+* Alternating Control Flow Reconstruction - http://dslab.epfl.ch/pubs/alternatingCFR.pdf
+
 ## Binary Rewriting
 * Control Flow Integrity - https://github.com/REMath/literature_review#control-flow-integrity 
 * Metamorphic Software for Buffer Overflow Mitigation - http://www.cs.sjsu.edu/faculty/stamp/students/cs298report.doc
@@ -370,9 +375,11 @@ Constraints - http://research.microsoft.com/en-us/um/people/leonardo/muze.pdf
 * JAD http://en.wikipedia.org/wiki/JAD_(JAva_Decompiler)
 * dirtyJOE http://dirty-joe.com/
 
-## Decompilers
+
 ## Type and Data Structure Recovering
 * Struct Builder: Tool commonly used in game hacking to reverse data structures. This tool is closed source. - http://www.mpcforum.com/showthread.php?128430-Release-StructBuild
+
+
 ## Miscellaneous Tools
 ## Binary Manipulation Frameworks
 
