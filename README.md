@@ -67,6 +67,8 @@
 ## Control Flow Recovery 
 * Alias / Value Analysis  - https://github.com/REMath/literature_review#alias--value-analysis
 * Alternating Control Flow Reconstruction - http://dslab.epfl.ch/pubs/alternatingCFR.pdf
+* Refinement-based CFG Reconstruction from Unstructured Programs by Sebastien Bardin, Philippe Herrmann, and Franck Vedrine - http://www.labri.fr/perso/fleury/download/papers/binary_analysis/long-final-vmcai-11.pdf
+
 
 ## Binary Rewriting
 * Control Flow Integrity - https://github.com/REMath/literature_review#control-flow-integrity 
