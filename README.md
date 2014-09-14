@@ -2,6 +2,7 @@
 * https://github.com/REMath/literature_review/blob/master/mechanization_of_exploits.org 
 
 ## Binary Analysis 
+* Moflow BAP-based tools to do post-crash graph backtaint slicing, post-crash forward symbolic emulation to look for more exploitable conditions, whitebox fuzzing based in SAGE - https://github.com/vrtadmin/moflow
 * https://github.com/zardus/pyvex
 * Mcsema is a rewriting and static analysis framework based on LLVM  https://github.com/trailofbits/mcsema
 * https://github.com/bdcht/amoco
