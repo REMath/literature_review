@@ -63,6 +63,7 @@
 * WYSINWYX: What You See Is Not What You Execute - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.76.637&rep=rep1&type=pdf
 * Static Analysis of x86 Executables by Johannes Kinder - http://www.cs.rhul.ac.uk/home/kinder/papers/phdthesis.pdf
 * BDDStab: BDD-based Value Analysis of Binaries - http://cs.au.dk/~amoeller/tapas2014/tapas2014_2.pdf
+* Static Analysis of x86 Assembly: Certification and Robustness Analysis - http://dumas.ccsd.cnrs.fr/docs/00/63/64/45/PDF/Laporte.pdf 
 
 
 ## Control Flow Recovery 
