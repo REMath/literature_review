@@ -2,12 +2,16 @@
 * https://github.com/REMath/literature_review/blob/master/mechanization_of_exploits.org 
 
 ## Binary Analysis 
-* Moflow BAP-based tools to do post-crash graph backtaint slicing, post-crash forward symbolic emulation to look for more exploitable conditions, whitebox fuzzing based in SAGE - https://github.com/vrtadmin/moflow
+* Moflow BAP-based tools to do post-crash graph backtaint slicing, post-crash forward symbolic emulation to look for more exploitable conditions, whitebox fuzzing based in SAGE 
+ - https://github.com/vrtadmin/moflow
 * https://github.com/zardus/pyvex
-* Mcsema is a rewriting and static analysis framework based on LLVM  https://github.com/trailofbits/mcsema
+* Mcsema is a rewriting and static analysis framework based on LLVM 
+ - https://github.com/trailofbits/mcsema
 * https://github.com/bdcht/amoco
-* A tool that exports LLVM bitcode into a Datalog workspace - https://github.com/plast-lab/llvm-datalog
-* Dagger is a decompilation framework based on LLVM - http://dagger.repzret.org/
+* A tool that exports LLVM bitcode into a Datalog workspace 
+ - https://github.com/plast-lab/llvm-datalog
+* Dagger is a decompilation framework based on LLVM 
+ - http://dagger.repzret.org/
 * http://bap.ece.cmu.edu/, https://github.com/BinaryAnalysisPlatform/bap
 * http://dynamorio.org/
 * https://bitbucket.org/simona/mltk
@@ -30,9 +34,11 @@
 * http://yurichev.com/writings/z3_rockey.pdf
 * http://eindbazen.net/2013/04/pctf-2013-cone-binary-250-2/
 * http://shell-storm.org/blog/Binary-analysis-Concolic-execution-with-Pin-and-z3/
-* An architecture-independent decompiler to LLVM IR - https://github.com/draperlaboratory/fracture
+* An architecture-independent decompiler to LLVM IR
+ - https://github.com/draperlaboratory/fracture
 * DECAF - https://code.google.com/p/decaf-platform/
-* Binwalk: Firmware analysis tool - http://binwalk.org/
+* Binwalk: Firmware analysis tool 
+ - http://binwalk.org/
 * https://code.google.com/p/miasm/
 
 
@@ -52,7 +58,8 @@
 * TSL: A System for Generating Abstract Interpreters and its Application to Machine-Code Analysis - http://research.cs.wisc.edu/wpis/papers/toplas13-tsl-final.pdf
 * Combining Several Analyses into One OR What is a Good Intermediate Language for the Analysis of Executables? - http://www.dagstuhl.de/mat/Files/12/12051/12051.SimonAxel.Slides.pdf
 * Jakstab uses an IR described in chapter two of http://www.cs.rhul.ac.uk/home/kinder/papers/phdthesis.pdf
-* Wire – A Formal Intermediate Language for Binary Analysis - https://drive.google.com/file/d/0BymO5h8P3PgAakZqY1RQSldzRmM/edit?usp=sharing
+* Wire – A Formal Intermediate Language for Binary Analysis 
+ - https://drive.google.com/file/d/0BymO5h8P3PgAakZqY1RQSldzRmM/edit?usp=sharing
 * Automated Synthesis of Symbolic Instruction Encodings from I/O Samples - http://research.microsoft.com/en-us/um/people/pg/public_psfiles/pldi2012.pdf
 * Towards A Binary Intermediate Language for Real-Time Embedded System by Jianqi Shi, Qin Li, Longfei Zhu, Xin Ye, Yanhong Huang, Huixing Fang and Fu Song - http://research.sei.ecnu.edu.cn/~song/publications/MPiE14.pdf
 * RockSalt: Better, Faster, Stronger SFI for the x86 - http://www.cse.lehigh.edu/~gtan/paper/rocksalt.pdf
@@ -67,32 +74,55 @@
 
 
 ## Control Flow Recovery 
-* Alias / Value Analysis  - https://github.com/REMath/literature_review#alias--value-analysis
-* Alternating Control Flow Reconstruction - http://dslab.epfl.ch/pubs/alternatingCFR.pdf
-* Refinement-based CFG Reconstruction from Unstructured Programs by Sebastien Bardin, Philippe Herrmann, and Franck Vedrine - http://www.labri.fr/perso/fleury/download/papers/binary_analysis/long-final-vmcai-11.pdf
-* Control flow reconstruction from PowerPC binaries - http://www2.in.tum.de/bib/files/mihaila09reconstruction.pdf
+* Alias / Value Analysis 
+ - https://github.com/REMath/literature_review#alias--value-analysis
+* Alternating Control Flow Reconstruction 
+ - http://dslab.epfl.ch/pubs/alternatingCFR.pdf
+* Refinement-based CFG Reconstruction from Unstructured Programs by Sebastien Bardin, Philippe Herrmann, and Franck Vedrine 
+ - http://www.labri.fr/perso/fleury/download/papers/binary_analysis/long-final-vmcai-11.pdf
+* Control flow reconstruction from PowerPC binaries 
+ - http://www2.in.tum.de/bib/files/mihaila09reconstruction.pdf
 
 
 ## Binary Rewriting
-* Control Flow Integrity - https://github.com/REMath/literature_review#control-flow-integrity 
-* Metamorphic Software for Buffer Overflow Mitigation - http://www.cs.sjsu.edu/faculty/stamp/students/cs298report.doc
-* Advanced Metamorphic Techniques in Computer Viruses - http://vxheavens.com/lib/apb01.html
-* Metamorphism in practice or "How I made MetaPHOR and what I've learnt" - http://vxheavens.com/lib/vmd01.html
-* Automated reverse engineering: Mistfall engine - http://vxheavens.com/lib/vzo21.html
-* Writing disassembler - http://vxheavens.com/lib/vmd05.html 
-* Benny's Metamorphic Engine for Win32 - http://vxheaven.org/29a/29a-6/29a-6.316
-* "Do polymorphism" tutorial - http://vxheavens.com/lib/vwm01.html
-* Introductory Primer To Polymorphism in Theory and Practice - http://vxheaven.org/lib/static/vdat/tupripol.htm
-* Recompiling the metamorphism - http://vxheavens.com/lib/vhe11.html
-* Theme: Metamorphism - http://vxheaven.org/29a/29a-4/29a-4.216
-* Some ideas about metamorphism - http://vxheavens.com/lib/vzo20.html
-* Meta-Level Languages in Viruses - http://vxheavens.com/lib/vsp44.html
-* Metamorphism (part 1) - http://vxheavens.com/lib/vzo10.html
-* Metamorphism - http://vxheavens.com/lib/vlj00.html
-* The Viral Darwinism of W32.Evol - http://www.openrce.org/articles/full_view/27 ( http://www.openrce.org/articles/files/evol_disasm.html )
-* The Molecular Virology of Lexotan32: Metamorphism Illustrated - http://www.openrce.org/articles/full_view/29
-* The Design Space of Metamorphic Malware - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.69.486&rep=rep1&type=pdf
-* Diablo - http://diablo.elis.ugent.be/
+* Control Flow Integrity 
+ - https://github.com/REMath/literature_review#control-flow-integrity 
+* Metamorphic Software for Buffer Overflow Mitigation 
+ - http://www.cs.sjsu.edu/faculty/stamp/students/cs298report.doc
+* Advanced Metamorphic Techniques in Computer Viruses 
+ - http://vxheavens.com/lib/apb01.html
+* Metamorphism in practice or "How I made MetaPHOR and what I've learnt" 
+ - http://vxheavens.com/lib/vmd01.html
+* Automated reverse engineering: Mistfall engine 
+ - http://vxheavens.com/lib/vzo21.html
+* Writing disassembler 
+ - http://vxheavens.com/lib/vmd05.html 
+* Benny's Metamorphic Engine for Win32 
+ - http://vxheaven.org/29a/29a-6/29a-6.316
+* "Do polymorphism" tutorial 
+ - http://vxheavens.com/lib/vwm01.html
+* Introductory Primer To Polymorphism in Theory and Practice 
+ - http://vxheaven.org/lib/static/vdat/tupripol.htm
+* Recompiling the metamorphism 
+ - http://vxheavens.com/lib/vhe11.html
+* Theme: Metamorphism 
+ - http://vxheaven.org/29a/29a-4/29a-4.216
+* Some ideas about metamorphism 
+ - http://vxheavens.com/lib/vzo20.html
+* Meta-Level Languages in Viruses 
+ - http://vxheavens.com/lib/vsp44.html
+* Metamorphism (part 1) 
+ - http://vxheavens.com/lib/vzo10.html
+* Metamorphism 
+ - http://vxheavens.com/lib/vlj00.html
+* The Viral Darwinism of W32.Evol 
+ - http://www.openrce.org/articles/full_view/27 ( http://www.openrce.org/articles/files/evol_disasm.html )
+* The Molecular Virology of Lexotan32: Metamorphism Illustrated 
+ - http://www.openrce.org/articles/full_view/29
+* The Design Space of Metamorphic Malware 
+ - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.69.486&rep=rep1&type=pdf
+* Diablo 
+ - http://diablo.elis.ugent.be/
 
 ## Abstract Interpretation
 * http://arxiv.org/abs/0810.2179 (code: http://hal.inria.fr/docs/00/33/23/39/ANNEX/absint.v ) 
@@ -121,29 +151,40 @@
 
 ## Datalog
 * Alias Analysis for Assembly - http://users.ece.cmu.edu/~dbrumley/pdf/Brumley,%20Newsome_2006_Alias%20Analysis%20for%20Assembly%20%28Revised%29.pdf
-* Dyna: Extending Datalog For Modern AI - http://cs.jhu.edu/~jason/papers/eisner+filardo.datalog11-long.pdf and http://www.cs.jhu.edu/~nwf/datalog20-paper.pdf 
-* Using Datalog for fast and easy program analysis - http://cgi.di.uoa.gr/~smaragd/doop-datalog2.0.pdf
-* Implementing Dataflow Analyses for Pegasus in Datalog - http://www.cs.cmu.edu/~drl/course/compilers/report.pdf
+* Dyna: Extending Datalog For Modern AI 
+ - http://cs.jhu.edu/~jason/papers/eisner+filardo.datalog11-long.pdf and http://www.cs.jhu.edu/~nwf/datalog20-paper.pdf 
+* Using Datalog for fast and easy program analysis 
+ - http://cgi.di.uoa.gr/~smaragd/doop-datalog2.0.pdf
+* Implementing Dataflow Analyses for Pegasus in Datalog 
+ - http://www.cs.cmu.edu/~drl/course/compilers/report.pdf
 * Using Datalog and binary decision diagrams for program analysis - http://people.csail.mit.edu/mcarbin/papers/aplas05.pdf
 * Datalog for decompilation - https://media.blackhat.com/us-13/US-13-Cesare-Bugalyze.com-Detecting-Bugs-Using-Decompilation-Slides.pdf
 * On Abstraction Reﬁnement for Program Analyses in Datalog - http://www.cs.ox.ac.uk/people/hongseok.yang/paper/pldi14c-submitted.pdf
-* Scaling Datalog for Machine Learning on Big Data - http://arxiv.org/pdf/1203.0160.pdf
-* Relational Representation of the LLVM Intermediate Language - http://cgi.di.uoa.gr/~smaragd/theses/psallida.pdf
+* Scaling Datalog for Machine Learning on Big Data 
+ - http://arxiv.org/pdf/1203.0160.pdf
+* Relational Representation of the LLVM Intermediate Language 
+ - http://cgi.di.uoa.gr/~smaragd/theses/psallida.pdf
 * http://docs.datomic.com/query.html
-* Using Datalog for Fast and Easy Program Analysis - http://cgi.di.uoa.gr/~smaragd/doop-datalog2.0.pdf
-* An Efficient Engine for Fixed Points with
-Constraints - http://research.microsoft.com/en-us/um/people/leonardo/muze.pdf
-* On Abstraction Refinement for Program Analyses in Datalog - http://www.cs.ox.ac.uk/people/hongseok.yang/paper/pldi14c-submitted.pdf
+* Using Datalog for Fast and Easy Program Analysis 
+ - http://cgi.di.uoa.gr/~smaragd/doop-datalog2.0.pdf
+* An Efficient Engine for Fixed Points with Constraints 
+ - http://research.microsoft.com/en-us/um/people/leonardo/muze.pdf
+* On Abstraction Refinement for Program Analyses in Datalog 
+ - http://www.cs.ox.ac.uk/people/hongseok.yang/paper/pldi14c-submitted.pdf
 * Efficient Top-Down Computation Of Queries Under The Well-Founded Semantics - http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=9C9550377F2C74A427FBA59818479087?doi=10.1.1.54.8690&rep=rep1&type=pdf
-* Dedalus: Datalog in Time and Space - http://www.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-173.pdf
-* Strictly Declarative Specification of Sophisticated Points-to Analyses - http://cgi.di.uoa.gr/~smaragd/doop-oopsla09prelim.pdf 
-* Pregelix: Big(ger) Graph Analytics on A Dataflow Engine - http://arxiv.org/pdf/1407.0455.pdf
+* Dedalus: Datalog in Time and Space 
+ - http://www.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-173.pdf
+* Strictly Declarative Specification of Sophisticated Points-to Analyses 
+ - http://cgi.di.uoa.gr/~smaragd/doop-oopsla09prelim.pdf 
+* Pregelix: Big(ger) Graph Analytics on A Dataflow Engine 
+ - http://arxiv.org/pdf/1407.0455.pdf
 
 ## String Solvers
 * http://webblaze.cs.berkeley.edu/2010/kaluza/
 * http://people.csail.mit.edu/akiezun/hampi/
 * http://www.cs.purdue.edu/homes/zheng16/str/
-* A DPLL(T) Theory Solver for a Theory of Strings and Regular Expressions - http://www.divms.uiowa.edu/ftp/tinelli/papers/LiaEtAl-CAV-14.pdf and http://cvc4.cs.nyu.edu/papers/CAV2014-strings/ 
+* A DPLL(T) Theory Solver for a Theory of Strings and Regular Expressions 
+ - http://www.divms.uiowa.edu/ftp/tinelli/papers/LiaEtAl-CAV-14.pdf and http://cvc4.cs.nyu.edu/papers/CAV2014-strings/ 
 
 ## Datasets 
 * https://svn.sosy-lab.org/software/sv-benchmarks/tags/svcomp13/
@@ -269,7 +310,8 @@ Constraints - http://research.microsoft.com/en-us/um/people/leonardo/muze.pdf
 ## Control Flow Integrity
 * A Retargettable CFI implementation in LLVM. Authors: Joseph Battaglia and Oulin Yao
  - https://github.com/dbrumley/recfi
-* BinCFI: Control Flow Integrity for COTS Binaries - http://www.seclab.cs.sunysb.edu/seclab/bincfi/
+* BinCFI: Control Flow Integrity for COTS Binaries 
+ - http://www.seclab.cs.sunysb.edu/seclab/bincfi/
 * https://www.usenix.org/conference/usenixsecurity13/technical-sessions/presentation/Zhang
 * http://lenx.100871.net/papers/FPGate-bluehat.pdf
 * http://lists.cs.uiuc.edu/pipermail/llvmdev/2014-February/070210.html
