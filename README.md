@@ -49,15 +49,24 @@
 
 
 ## Intermediate Representations
-* An Intermediate Representation for Integrating Reverse Engineering Analyses (1998) - http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.47.2766
-* REIL: A platform-independent intermediate representation of disassembled code for static code analys - http://moflow.org/ref/REIL%20-%20A%20platform-independent%20intermediate%20representation%20of%20disassembled%20code%20for%20static%20code%20analysis.pdf
-* Relational Reverse Engineering Intermediate Language - http://www2.in.tum.de/bib/files/sepp11precise.pdf
-* VinE Project Documentation - http://bitblaze.cs.berkeley.edu/papers/vine.pdf
-* BIL - http://bap.ece.cmu.edu/doc/bap.pdf
-* LLVM - http://infoscience.epfl.ch/record/149975/files/x86-llvm-translator-chipounov_2.pdf , http://eurosys2013.tudos.org/wp-content/uploads/2013/paper/Anand.pdf
-* TSL: A System for Generating Abstract Interpreters and its Application to Machine-Code Analysis - http://research.cs.wisc.edu/wpis/papers/toplas13-tsl-final.pdf
-* Combining Several Analyses into One OR What is a Good Intermediate Language for the Analysis of Executables? - http://www.dagstuhl.de/mat/Files/12/12051/12051.SimonAxel.Slides.pdf
-* Jakstab uses an IR described in chapter two of http://www.cs.rhul.ac.uk/home/kinder/papers/phdthesis.pdf
+* An Intermediate Representation for Integrating Reverse Engineering Analyses (1998) 
+ - http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.47.2766
+* REIL: A platform-independent intermediate representation of disassembled code for static code analys 
+ - http://moflow.org/ref/REIL%20-%20A%20platform-independent%20intermediate%20representation%20of%20disassembled%20code%20for%20static%20code%20analysis.pdf
+* Relational Reverse Engineering Intermediate Language 
+ - http://www2.in.tum.de/bib/files/sepp11precise.pdf
+* VinE Project Documentation 
+ - http://bitblaze.cs.berkeley.edu/papers/vine.pdf
+* BIL 
+ - http://bap.ece.cmu.edu/doc/bap.pdf
+* LLVM 
+ - http://infoscience.epfl.ch/record/149975/files/x86-llvm-translator-chipounov_2.pdf , http://eurosys2013.tudos.org/wp-content/uploads/2013/paper/Anand.pdf
+* TSL: A System for Generating Abstract Interpreters and its Application to Machine-Code Analysis 
+ - http://research.cs.wisc.edu/wpis/papers/toplas13-tsl-final.pdf
+* Combining Several Analyses into One OR What is a Good Intermediate Language for the Analysis of Executables? 
+ - http://www.dagstuhl.de/mat/Files/12/12051/12051.SimonAxel.Slides.pdf
+* Jakstab uses an IR described in chapter two 
+ - http://www.cs.rhul.ac.uk/home/kinder/papers/phdthesis.pdf
 * Wire – A Formal Intermediate Language for Binary Analysis 
  - https://drive.google.com/file/d/0BymO5h8P3PgAakZqY1RQSldzRmM/edit?usp=sharing
 * Automated Synthesis of Symbolic Instruction Encodings from I/O Samples - http://research.microsoft.com/en-us/um/people/pg/public_psfiles/pldi2012.pdf
@@ -65,12 +74,18 @@
 * RockSalt: Better, Faster, Stronger SFI for the x86 - http://www.cse.lehigh.edu/~gtan/paper/rocksalt.pdf
 
 ## Alias / Value Analysis  
-* Alias Analysis for Assembly - http://reports-archive.adm.cs.cmu.edu/anon/anon/usr/ftp/2006/CMU-CS-06-180R.pdf
-* Probabilistic Alias Analysis for ARM Executable Code - https://drive.google.com/file/d/0BymO5h8P3PgAc29nUFBleGFtTnc/edit?usp=sharing
-* WYSINWYX: What You See Is Not What You Execute - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.76.637&rep=rep1&type=pdf
-* Static Analysis of x86 Executables by Johannes Kinder - http://www.cs.rhul.ac.uk/home/kinder/papers/phdthesis.pdf
-* BDDStab: BDD-based Value Analysis of Binaries - http://cs.au.dk/~amoeller/tapas2014/tapas2014_2.pdf
-* Static Analysis of x86 Assembly: Certification and Robustness Analysis - http://dumas.ccsd.cnrs.fr/docs/00/63/64/45/PDF/Laporte.pdf 
+* Alias Analysis for Assembly 
+ - http://reports-archive.adm.cs.cmu.edu/anon/anon/usr/ftp/2006/CMU-CS-06-180R.pdf
+* Probabilistic Alias Analysis for ARM Executable Code 
+ - https://drive.google.com/file/d/0BymO5h8P3PgAc29nUFBleGFtTnc/edit?usp=sharing
+* WYSINWYX: What You See Is Not What You Execute 
+ - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.76.637&rep=rep1&type=pdf
+* Static Analysis of x86 Executables by Johannes Kinder 
+ - http://www.cs.rhul.ac.uk/home/kinder/papers/phdthesis.pdf
+* BDDStab: BDD-based Value Analysis of Binaries 
+ - http://cs.au.dk/~amoeller/tapas2014/tapas2014_2.pdf
+* Static Analysis of x86 Assembly: Certification and Robustness Analysis 
+ - http://dumas.ccsd.cnrs.fr/docs/00/63/64/45/PDF/Laporte.pdf 
 
 
 ## Control Flow Recovery 
