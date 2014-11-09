@@ -70,8 +70,10 @@
 * Wire – A Formal Intermediate Language for Binary Analysis 
  - https://drive.google.com/file/d/0BymO5h8P3PgAakZqY1RQSldzRmM/edit?usp=sharing
 * Automated Synthesis of Symbolic Instruction Encodings from I/O Samples - http://research.microsoft.com/en-us/um/people/pg/public_psfiles/pldi2012.pdf
-* Towards A Binary Intermediate Language for Real-Time Embedded System by Jianqi Shi, Qin Li, Longfei Zhu, Xin Ye, Yanhong Huang, Huixing Fang and Fu Song - http://research.sei.ecnu.edu.cn/~song/publications/MPiE14.pdf
-* RockSalt: Better, Faster, Stronger SFI for the x86 - http://www.cse.lehigh.edu/~gtan/paper/rocksalt.pdf
+* Towards A Binary Intermediate Language for Real-Time Embedded System by Jianqi Shi, Qin Li, Longfei Zhu, Xin Ye, Yanhong Huang, Huixing Fang and Fu Song 
+ - http://research.sei.ecnu.edu.cn/~song/publications/MPiE14.pdf
+* RockSalt: Better, Faster, Stronger SFI for the x86 
+ - http://www.cse.lehigh.edu/~gtan/paper/rocksalt.pdf
 
 ## Alias / Value Analysis  
 * Alias Analysis for Assembly 
