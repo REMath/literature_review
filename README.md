@@ -8,7 +8,7 @@
 * https://github.com/bdcht/amoco
 * A tool that exports LLVM bitcode into a Datalog workspace - https://github.com/plast-lab/llvm-datalog
 * Dagger is a decompilation framework based on LLVM - http://dagger.repzret.org/
-* http://bap.ece.cmu.edu/
+* http://bap.ece.cmu.edu/, 
 * http://dynamorio.org/
 * https://bitbucket.org/simona/mltk
 * http://insight.labri.fr/trac, https://github.com/perror/insight
@@ -267,6 +267,8 @@ Constraints - http://research.microsoft.com/en-us/um/people/leonardo/muze.pdf
 * http://www.cs.ru.nl/~janz/yarrow/
 
 ## Control Flow Integrity
+* A Retargettable CFI implementation in LLVM. Authors: Joseph Battaglia and Oulin Yao
+ - https://github.com/dbrumley/recfi
 * BinCFI: Control Flow Integrity for COTS Binaries - http://www.seclab.cs.sunysb.edu/seclab/bincfi/
 * https://www.usenix.org/conference/usenixsecurity13/technical-sessions/presentation/Zhang
 * http://lenx.100871.net/papers/FPGate-bluehat.pdf
