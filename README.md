@@ -99,6 +99,8 @@
  - http://www.labri.fr/perso/fleury/download/papers/binary_analysis/long-final-vmcai-11.pdf
 * Control flow reconstruction from PowerPC binaries 
  - http://www2.in.tum.de/bib/files/mihaila09reconstruction.pdf
+* Interprocedural Analysis of Low-Level Code 
+ - http://mediatum.ub.tum.de/doc/1006212/1006212.pdf
 
 
 ## Binary Rewriting
