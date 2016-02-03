@@ -259,7 +259,6 @@
 * http://code.google.com/p/arm-thumb-decompiler-plugin/
 * https://github.com/EiNSTeiN-/ida-decompiler
 * http://boomerang.sourceforge.net/ 
-* http://decompiler.fit.vutbr.cz/decompilation/
 * Retargetable Decompiler http://decompiler.fit.vutbr.cz/index.php
 * C4Decompiler http://www.c4decompiler.com
 * SmartDec decompiler http://decompilation.info/
