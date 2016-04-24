@@ -1,3 +1,6 @@
+* Original source of list: https://github.com/REMath/literature_review
+
+
 ## Mechanization of Exploits 
 * https://github.com/REMath/literature_review/blob/master/mechanization_of_exploits.org 
 
@@ -21,7 +24,7 @@
 * http://bitblaze.cs.berkeley.edu/
 * http://code.google.com/p/avalanche/
 * https://bincoa.labri.fr/trac
-* http://www.jakstab.org/documentation
+* https://github.com/jkinder/jakstab
 * https://code.google.com/p/tree-cbass/
 * https://github.com/bitblaze-fuzzball/fuzzball (https://nebelwelt.net/blog/20140114-having_phun_with_SE.html)
 * https://code.google.com/p/decaf-platform/
@@ -154,6 +157,7 @@
 * http://www.irisa.fr/celtique/teaching/PAS/
 
 ## Logical solvers
+* https://github.com/leanprover/lean/
 * http://z3.codeplex.com/ 
 * http://alt-ergo.ocamlpro.com/
 * http://yices.csl.sri.com/
@@ -227,6 +231,8 @@
 * http://www.phrack.org/issues.html?id=13&issue=63
 * https://github.com/obfuscator-llvm/obfuscator/wiki (https://github.com/obfuscator-llvm/obfuscator/tree/clang-425.0.24)
 * Binary code obfuscation through C++ template metaprogramming - https://www.cisuc.uc.pt/publication/showfile?fn=1357250736_metaobfv3.pdf
+* https://github.com/xoreaxeaxeax/movfuscator
+* https://github.com/xoreaxeaxeax/REpsych
 
 ## Hidden Computation
 * http://mainisusuallyafunction.blogspot.com.es/2014/02/x86-is-turing-complete-with-no-registers.html
@@ -264,6 +270,7 @@
 * SmartDec decompiler http://decompilation.info/
 * REC Studio 4 http://www.backerstreet.com/rec/rec.htm
 * List of .Net Decompilers: https://code.google.com/p/facile-api/wiki/ListOfDotNetDecompilers
+* https://github.com/zneak/fcd
 
 ## Virtual Machines
 * http://klee.llvm.org/
@@ -307,6 +314,7 @@
 * https://bitbucket.org/khooyp/expositor 
 * http://www.eresi-project.org/
 * http://redmine.corelan.be/projects/mona
+* https://github.com/BinaryAnalysisPlatform/qira
 
 ## Interactive Theorem Provers
 * http://research.microsoft.com/en-us/um/people/akenn/coq/LOLA2012.pdf
@@ -470,3 +478,4 @@
 # Acknowledgements
 * https://events.ccc.de/congress/2013/wiki/Session:Binary_Analysis
 * http://www.reddit.com/r/ReverseEngineering/comments/1pvqv5/program_analysis_technology_additions_and/cd6tmor
+* Original source of list: https://github.com/REMath/literature_review
