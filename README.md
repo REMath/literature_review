@@ -43,6 +43,7 @@
 * Binwalk: Firmware analysis tool 
  - http://binwalk.org/
 * https://code.google.com/p/miasm/
+* Angr: http://angr.io/
 
 
 
