@@ -421,7 +421,7 @@
 ## x64
 * FDBG http://fdbg.x86asm.net/
 * Nanomite https://github.com/zer0fl4g/Nanomite
-* x64_dbg https://bitbucket.org/mrexodia/x64_dbg
+* x64dbg http://x64dbg.com/#start
 * ArkDasm http://www.arkdasm.com/
 * VirtDbg https://code.google.com/p/virtdbg/
 * BugDbg http://pespin.w.interia.pl/
