@@ -432,6 +432,7 @@
 
 ## Multi-Architecture
 * IDA Pro https://www.hex-rays.com/products/ida/
+* BinaryNinja http://binary.ninja/
 * Hopper http://www.hopperapp.com/
 * radare http://radare.org
 * GUI: Bokken http://inguma.eu/projects/bokken
