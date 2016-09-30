@@ -280,18 +280,18 @@
 * http://www.megalith.co.uk/8086tiny/
 
 ## Videos
-* http://media.ccc.de/browse/congress/2013/30C3_-_5224_-_en_-_saal_6_-_201312271400_-_triggering_deep_vulnerabilities_using_symbolic_execution_-_gannimo.html
-* http://www.youtube.com/watch?v=CJccn9d2t5w
-* http://www.youtube.com/watch?v=YUikShiPEg8
-* http://www.youtube.com/watch?v=b8SeZTgwXEY
-* http://www.youtube.com/watch?v=_jq3swTyk_k
-* http://www.youtube.com/watch?v=1lh_DNBZBHQ 
-* http://www.youtube.com/watch?v=azTVEwxN8zM
-* http://www.youtube.com/watch?v=k1qqNE1xMII
+* [30C3 - Triggering Deep Vulnerabilities Using Symbolic Execution (2013)](http://media.ccc.de/browse/congress/2013/30C3_-_5224_-_en_-_saal_6_-_201312271400_-_triggering_deep_vulnerabilities_using_symbolic_execution_-_gannimo.html)
+* [Automated Test Generation using Symbolic Execution: Three Decades Later (2012)](http://www.youtube.com/watch?v=CJccn9d2t5w)
+* [Concolic Execution, Jonathan Salwan, LSE Week 2013](http://www.youtube.com/watch?v=YUikShiPEg8)
+* [DART: Directed Automated Random Testing and Concolic Testing (2013)](http://www.youtube.com/watch?v=b8SeZTgwXEY)
+* [Unleashing Mayhem on Binary Code (2012)](http://www.youtube.com/watch?v=_jq3swTyk_k)
+* [David Brumley - Safe Software (2013)](http://www.youtube.com/watch?v=1lh_DNBZBHQ)
+* [GoogleTechTalks - Symbolic Execution and Model Checking for Testing (2007)](http://www.youtube.com/watch?v=azTVEwxN8zM)
+* [BlackHat USA - How to grow a TREE (Taint-Enabled Reverse Engineering Environment) from a CBASS (2013)](http://www.youtube.com/watch?v=k1qqNE1xMII)
 * https://archive.org/details/Recon2012Keynote-TheCaseForSemantics-basedMethodsInReverseEngineering
-* https://archive.org/details/ApplyingTaintAnalysisAndTheoremProvingToExploitDevelopment-SeanHeelan
-* https://air.mozilla.org/verification-history/
-* http://vimeo.com/75326415
+* [Applying Taint Analysis and Theorem Proving to Exploit Development (2010)](https://archive.org/details/ApplyingTaintAnalysisAndTheoremProvingToExploitDevelopment-SeanHeelan)
+* [Mozilla - Tales from Verification History (2012)](https://air.mozilla.org/verification-history/)
+* [New Directions in Random Testing - From Mars Rovers to JavaScript Engines (2013)](http://vimeo.com/75326415)
 
 ## Model Checkers 
 * http://nusmv.fbk.eu/ 
