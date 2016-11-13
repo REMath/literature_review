@@ -44,7 +44,8 @@
  - http://binwalk.org/
 * https://code.google.com/p/miasm/
 * Angr: http://angr.io/
-
+* Triton is a DBA that provides Dynamic Symbolic Execution (DSE), Taint Engine, AST for x86/x86-64 and an SMT solver
+ - http://triton.quarkslab.com/
 
 
 ## Analysis of Communication Protocols 
