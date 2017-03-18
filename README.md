@@ -43,7 +43,9 @@
 * Binwalk: Firmware analysis tool 
  - http://binwalk.org/
 * https://code.google.com/p/miasm/
-
+* Angr: http://angr.io/
+* Triton is a DBA that provides Dynamic Symbolic Execution (DSE), Taint Engine, AST for x86/x86-64 and an SMT solver
+ - http://triton.quarkslab.com/
 
 
 ## Analysis of Communication Protocols 
@@ -421,7 +423,7 @@
 ## x64
 * FDBG http://fdbg.x86asm.net/
 * Nanomite https://github.com/zer0fl4g/Nanomite
-* x64_dbg https://bitbucket.org/mrexodia/x64_dbg
+* x64dbg http://x64dbg.com/#start
 * ArkDasm http://www.arkdasm.com/
 * VirtDbg https://code.google.com/p/virtdbg/
 * BugDbg http://pespin.w.interia.pl/
@@ -431,6 +433,7 @@
 
 ## Multi-Architecture
 * IDA Pro https://www.hex-rays.com/products/ida/
+* BinaryNinja http://binary.ninja/
 * Hopper http://www.hopperapp.com/
 * radare http://radare.org
 * GUI: Bokken http://inguma.eu/projects/bokken
