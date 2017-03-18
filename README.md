@@ -273,6 +273,7 @@
 * REC Studio 4 http://www.backerstreet.com/rec/rec.htm
 * List of .Net Decompilers: https://code.google.com/p/facile-api/wiki/ListOfDotNetDecompilers
 * https://github.com/zneak/fcd
+* radeco https://github.com/radare/radeco
 
 ## Virtual Machines
 * http://klee.llvm.org/
